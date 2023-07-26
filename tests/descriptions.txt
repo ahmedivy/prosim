@@ -1,0 +1,13 @@
+00: 1 thread test
+01: 2 threads, thread 1 and thread 2 finish at same time
+02: 2 threads, thread 1 takes longer than thread 2 
+03: 2 threads, thread 2 takes longer than thread 1 
+04: 2 threads, 4 processes, all finish at same time
+05: 8 threads, 32 processes, all empty
+06: 8 threads, 32 processes, performing loops of DOOPs and BLOCKs
+07: 16 threads, 64 processes, performing loops of DOOPs and BLOCKs
+08: 16 threads, 64 processes, performing loops of DOOPs and BLOCKs, 
+    each thread has a different number of processes
+09: 16 threads, 64 processes, performing loops of DOOPs and BLOCKs, 
+    each thread has a different number of processes
+    process do a lot of work and have different lengths

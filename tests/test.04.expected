@@ -1,0 +1,24 @@
+[01] 00000: process 1 new
+[01] 00000: process 1 ready
+[01] 00000: process 1 running
+[01] 00000: process 2 blocked
+[01] 00000: process 2 new
+[01] 00004: process 1 blocked
+[01] 00004: process 2 ready
+[01] 00004: process 2 running
+[01] 00008: process 1 finished
+[01] 00008: process 2 finished
+[02] 00000: process 1 new
+[02] 00000: process 1 ready
+[02] 00000: process 1 running
+[02] 00000: process 2 blocked
+[02] 00000: process 2 new
+[02] 00004: process 1 blocked
+[02] 00004: process 2 ready
+[02] 00004: process 2 running
+[02] 00008: process 1 finished
+[02] 00008: process 2 finished
+| 00008 | Proc 01.01 | Run 4, Block 4, Wait 0
+| 00008 | Proc 01.02 | Run 4, Block 4, Wait 0
+| 00008 | Proc 02.01 | Run 4, Block 4, Wait 0
+| 00008 | Proc 02.02 | Run 4, Block 4, Wait 0

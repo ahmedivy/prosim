@@ -1,0 +1,96 @@
+[01] 00000: process 1 finished
+[01] 00000: process 1 new
+[01] 00000: process 2 finished
+[01] 00000: process 2 new
+[01] 00000: process 3 finished
+[01] 00000: process 3 new
+[01] 00000: process 4 finished
+[01] 00000: process 4 new
+[02] 00000: process 1 finished
+[02] 00000: process 1 new
+[02] 00000: process 2 finished
+[02] 00000: process 2 new
+[02] 00000: process 3 finished
+[02] 00000: process 3 new
+[02] 00000: process 4 finished
+[02] 00000: process 4 new
+[03] 00000: process 1 finished
+[03] 00000: process 1 new
+[03] 00000: process 2 finished
+[03] 00000: process 2 new
+[03] 00000: process 3 finished
+[03] 00000: process 3 new
+[03] 00000: process 4 finished
+[03] 00000: process 4 new
+[04] 00000: process 1 finished
+[04] 00000: process 1 new
+[04] 00000: process 2 finished
+[04] 00000: process 2 new
+[04] 00000: process 3 finished
+[04] 00000: process 3 new
+[04] 00000: process 4 finished
+[04] 00000: process 4 new
+[05] 00000: process 1 finished
+[05] 00000: process 1 new
+[05] 00000: process 2 finished
+[05] 00000: process 2 new
+[05] 00000: process 3 finished
+[05] 00000: process 3 new
+[05] 00000: process 4 finished
+[05] 00000: process 4 new
+[06] 00000: process 1 finished
+[06] 00000: process 1 new
+[06] 00000: process 2 finished
+[06] 00000: process 2 new
+[06] 00000: process 3 finished
+[06] 00000: process 3 new
+[06] 00000: process 4 finished
+[06] 00000: process 4 new
+[07] 00000: process 1 finished
+[07] 00000: process 1 new
+[07] 00000: process 2 finished
+[07] 00000: process 2 new
+[07] 00000: process 3 finished
+[07] 00000: process 3 new
+[07] 00000: process 4 finished
+[07] 00000: process 4 new
+[08] 00000: process 1 finished
+[08] 00000: process 1 new
+[08] 00000: process 2 finished
+[08] 00000: process 2 new
+[08] 00000: process 3 finished
+[08] 00000: process 3 new
+[08] 00000: process 4 finished
+[08] 00000: process 4 new
+| 00000 | Proc 01.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 01.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 01.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 01.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 02.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 02.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 02.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 02.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 03.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 03.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 03.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 03.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 04.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 04.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 04.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 04.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 05.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 05.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 05.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 05.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 06.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 06.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 06.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 06.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 07.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 07.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 07.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 07.04 | Run 0, Block 0, Wait 0
+| 00000 | Proc 08.01 | Run 0, Block 0, Wait 0
+| 00000 | Proc 08.02 | Run 0, Block 0, Wait 0
+| 00000 | Proc 08.03 | Run 0, Block 0, Wait 0
+| 00000 | Proc 08.04 | Run 0, Block 0, Wait 0

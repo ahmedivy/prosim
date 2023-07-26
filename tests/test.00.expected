@@ -1,0 +1,11 @@
+[01] 00000: process 1 new
+[01] 00000: process 1 ready
+[01] 00000: process 1 running
+[01] 00004: process 1 blocked
+[01] 00007: process 1 ready
+[01] 00007: process 1 running
+[01] 00011: process 1 blocked
+[01] 00013: process 1 ready
+[01] 00013: process 1 running
+[01] 00016: process 1 finished
+| 00016 | Proc 01.01 | Run 11, Block 5, Wait 0
